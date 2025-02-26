@@ -1,0 +1,1 @@
+This QR generater helps to generate customized QR based on your requirement. just provide the URL and it generates the QR.
